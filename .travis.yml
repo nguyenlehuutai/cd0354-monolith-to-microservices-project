@@ -33,3 +33,6 @@ after_success:
   - docker push tainguyen90/udagram-api-user:v1
   - docker push tainguyen90/udagram-frontend:v1
   - docker push tainguyen90/reverseproxy:v1
+
+
+  
